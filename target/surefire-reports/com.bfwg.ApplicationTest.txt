@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bfwg.ApplicationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.5 sec - in com.bfwg.ApplicationTest

@@ -1,0 +1,6 @@
+com/bfwg/rest/AuthenticationControllerTest.class
+com/bfwg/security/TokenHelperTest.class
+com/bfwg/ApplicationTest.class
+com/bfwg/security/UserDetailsDummy.class
+com/bfwg/rest/UserControllerTest.class
+com/bfwg/security/DeviceDummy.class
